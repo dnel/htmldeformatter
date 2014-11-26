@@ -6,23 +6,23 @@ formatting from HTML emails.
 
 Requirements:
 
-Python 2.x
-www.python.org
+Python 2.x  
+ www.python.org
 
-Bottle
-http://bottlepy.org/
-pip install bottle
+Bottle  
+ http://bottlepy.org/  
+ pip install bottle
 
-Beaker
-https://github.com/bbangert/beaker
-pip install beaker
+Beaker  
+ https://github.com/bbangert/beaker  
+ pip install beaker
 
-html2text
-https://github.com/aaronsw/html2text
-pip install html2text
-RIP Aaron Swartz
+html2text  
+ https://github.com/aaronsw/html2text  
+ pip install html2text  
+ RIP Aaron Swartz
 
-Web Browser (Tested with Firefox)
-www.getfirefox.com
+Web Browser (Tested with Firefox)  
+ www.getfirefox.com
 
 
